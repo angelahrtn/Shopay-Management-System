@@ -1,0 +1,3 @@
+angel,  bsq,  angela@gmail.com,  female, 081234567890
+alle,  bsq juga,  allee@gmail.com,  female, 121212121212
+Feli,  binus square,  felii@gmail.com,  female, 123456765432
